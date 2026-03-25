@@ -1,8 +1,6 @@
-##김정훈
+## 김정훈
 
 반복되는 문제를 시스템과 도구로 해결하는 개발자입니다
-
-<br/>
 
 ## 프로젝트
 
@@ -14,7 +12,7 @@
 ### RT-Fact
 >AI 기반 실시간 팩트체크 서비스
 
-[Frontend](https://github.com/mangmuse/RT-Fact-FE) | [Backend](https://github.com/mangmuse/RT-Fact-be)| [MCP](https://github.com/mangmuse/RT-Fact-MCP)
+[Frontend](https://github.com/mangmuse/RT-Fact-FE)|[Backend](https://github.com/mangmuse/RT-Fact-be)|[MCP](https://github.com/mangmuse/RT-Fact-MCP)
 
 ### Fit-planner
 >운동 루틴 관리 앱
